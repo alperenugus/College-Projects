@@ -1,0 +1,12 @@
+Why is BigDecimal better than double for representing dollar amounts?
+
+=> BigDecimal is a type of number representations in computers. When we use doubles in our programs, 
+if the number is too big or too small, since the double type has a certain precision, there can be computation
+errors. In order to prevent these, we should use BigDecimal type while dealing with money. The disadvantage 
+is that since the math operators are not overloaded for BigDecimal, the implementation can be more time consuming.
+
+List 3 good practices related to exception handling:
+
+=> Exceptions prevent programs to be error prone.
+=> Using exceptions will eradicate errors stemming from the users.
+=> Using proper handling mechanisms, exceptions are the way to maintain a program continuously.
