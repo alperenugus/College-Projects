@@ -1,0 +1,8 @@
+csci403=> SELECT * FROM project1;
+ line |                       stanza                        
+------+-----------------------------------------------------
+    0 | Foolishly, hail walks.
+    1 | Fluttering fair midday falls.
+    2 | Cold journeys fall.
+      | --from http://peterhoward.org/haikugen/framset1.htm
+(4 rows)
