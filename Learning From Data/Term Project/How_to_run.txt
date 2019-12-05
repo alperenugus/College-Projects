@@ -1,0 +1,8 @@
+How to run the SVM_model.py file:
+	
+	1. Have the .py file and the .csv files in the same directory and simply running the .py file would train the model
+	and output the results in a file named Submission.csv.
+	2. If a new test set is to be used, then by uncommenting the last block that starts from line 164, and providing a file name for the test csv file,
+	the .py file will output 2 files, the Submission.csv file as before and the results from the new test set under the file
+	name NewSubmission.csv.
+	3. If the parameter tuning function should be tested, by uncommenting the 160th line, the function will be called and it will 		return the best parameters, but also print them to the screen.   
