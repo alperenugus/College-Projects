@@ -1,0 +1,17 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/PokerPt1.dir/AlphaPlayer.cpp.o"
+  "CMakeFiles/PokerPt1.dir/BetHistory.cpp.o"
+  "CMakeFiles/PokerPt1.dir/BetaPlayer.cpp.o"
+  "CMakeFiles/PokerPt1.dir/Game.cpp.o"
+  "CMakeFiles/PokerPt1.dir/Hand.cpp.o"
+  "CMakeFiles/PokerPt1.dir/HumanPlayer.cpp.o"
+  "CMakeFiles/PokerPt1.dir/Player.cpp.o"
+  "CMakeFiles/PokerPt1.dir/main.cpp.o"
+  "PokerPt1"
+  "PokerPt1.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/PokerPt1.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

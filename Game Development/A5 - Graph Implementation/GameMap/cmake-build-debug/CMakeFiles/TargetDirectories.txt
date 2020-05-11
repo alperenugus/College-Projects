@@ -1,0 +1,3 @@
+/Users/alpi/CLionProjects/GameMap/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/alpi/CLionProjects/GameMap/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alpi/CLionProjects/GameMap/cmake-build-debug/CMakeFiles/GameMap.dir

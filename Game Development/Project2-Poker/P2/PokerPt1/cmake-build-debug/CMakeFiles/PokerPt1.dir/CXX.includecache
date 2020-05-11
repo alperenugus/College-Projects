@@ -1,0 +1,110 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/alpi/Google Drive/CSM/Game Development/Project2-Poker/P2/PokerPt1/AlphaPlayer.cpp
+AlphaPlayer.h
+/Users/alpi/Google Drive/CSM/Game Development/Project2-Poker/P2/PokerPt1/AlphaPlayer.h
+
+/Users/alpi/Google Drive/CSM/Game Development/Project2-Poker/P2/PokerPt1/AlphaPlayer.h
+Player.h
+/Users/alpi/Google Drive/CSM/Game Development/Project2-Poker/P2/PokerPt1/Player.h
+
+/Users/alpi/Google Drive/CSM/Game Development/Project2-Poker/P2/PokerPt1/Bet.h
+
+/Users/alpi/Google Drive/CSM/Game Development/Project2-Poker/P2/PokerPt1/BetHistory.h
+constants.h
+/Users/alpi/Google Drive/CSM/Game Development/Project2-Poker/P2/PokerPt1/constants.h
+Bet.h
+/Users/alpi/Google Drive/CSM/Game Development/Project2-Poker/P2/PokerPt1/Bet.h
+
+/Users/alpi/Google Drive/CSM/Game Development/Project2-Poker/P2/PokerPt1/BetaPlayer.cpp
+BetaPlayer.h
+/Users/alpi/Google Drive/CSM/Game Development/Project2-Poker/P2/PokerPt1/BetaPlayer.h
+chrono
+-
+
+/Users/alpi/Google Drive/CSM/Game Development/Project2-Poker/P2/PokerPt1/BetaPlayer.h
+Player.h
+/Users/alpi/Google Drive/CSM/Game Development/Project2-Poker/P2/PokerPt1/Player.h
+
+/Users/alpi/Google Drive/CSM/Game Development/Project2-Poker/P2/PokerPt1/Card.h
+string
+-
+
+/Users/alpi/Google Drive/CSM/Game Development/Project2-Poker/P2/PokerPt1/Game.cpp
+Game.h
+/Users/alpi/Google Drive/CSM/Game Development/Project2-Poker/P2/PokerPt1/Game.h
+HumanPlayer.h
+/Users/alpi/Google Drive/CSM/Game Development/Project2-Poker/P2/PokerPt1/HumanPlayer.h
+AlphaPlayer.h
+/Users/alpi/Google Drive/CSM/Game Development/Project2-Poker/P2/PokerPt1/AlphaPlayer.h
+BetaPlayer.h
+/Users/alpi/Google Drive/CSM/Game Development/Project2-Poker/P2/PokerPt1/BetaPlayer.h
+stdlib.h
+-
+iostream
+-
+assert.h
+-
+chrono
+-
+
+/Users/alpi/Google Drive/CSM/Game Development/Project2-Poker/P2/PokerPt1/Game.h
+Hand.h
+/Users/alpi/Google Drive/CSM/Game Development/Project2-Poker/P2/PokerPt1/Hand.h
+BetHistory.h
+/Users/alpi/Google Drive/CSM/Game Development/Project2-Poker/P2/PokerPt1/BetHistory.h
+Player.h
+/Users/alpi/Google Drive/CSM/Game Development/Project2-Poker/P2/PokerPt1/Player.h
+
+/Users/alpi/Google Drive/CSM/Game Development/Project2-Poker/P2/PokerPt1/Hand.h
+Card.h
+/Users/alpi/Google Drive/CSM/Game Development/Project2-Poker/P2/PokerPt1/Card.h
+constants.h
+/Users/alpi/Google Drive/CSM/Game Development/Project2-Poker/P2/PokerPt1/constants.h
+
+/Users/alpi/Google Drive/CSM/Game Development/Project2-Poker/P2/PokerPt1/HumanPlayer.cpp
+HumanPlayer.h
+/Users/alpi/Google Drive/CSM/Game Development/Project2-Poker/P2/PokerPt1/HumanPlayer.h
+iostream
+-
+
+/Users/alpi/Google Drive/CSM/Game Development/Project2-Poker/P2/PokerPt1/HumanPlayer.h
+Player.h
+/Users/alpi/Google Drive/CSM/Game Development/Project2-Poker/P2/PokerPt1/Player.h
+
+/Users/alpi/Google Drive/CSM/Game Development/Project2-Poker/P2/PokerPt1/Player.cpp
+Player.h
+/Users/alpi/Google Drive/CSM/Game Development/Project2-Poker/P2/PokerPt1/Player.h
+Hand.h
+/Users/alpi/Google Drive/CSM/Game Development/Project2-Poker/P2/PokerPt1/Hand.h
+iostream
+-
+
+/Users/alpi/Google Drive/CSM/Game Development/Project2-Poker/P2/PokerPt1/Player.h
+Hand.h
+/Users/alpi/Google Drive/CSM/Game Development/Project2-Poker/P2/PokerPt1/Hand.h
+BetHistory.h
+/Users/alpi/Google Drive/CSM/Game Development/Project2-Poker/P2/PokerPt1/BetHistory.h
+constants.h
+/Users/alpi/Google Drive/CSM/Game Development/Project2-Poker/P2/PokerPt1/constants.h
+
+/Users/alpi/Google Drive/CSM/Game Development/Project2-Poker/P2/PokerPt1/constants.h
+
+/Users/alpi/Google Drive/CSM/Game Development/Project2-Poker/P2/PokerPt1/main.cpp
+string
+-
+iostream
+-
+stdlib.h
+-
+time.h
+-
+Game.h
+/Users/alpi/Google Drive/CSM/Game Development/Project2-Poker/P2/PokerPt1/Game.h
+

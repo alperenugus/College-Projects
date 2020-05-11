@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/alpi/Google Drive/CSM/Game Development/A6 - Djikstra/GameMap/Graph.h
+string
+-
+vector
+-
+stack
+-
+Vertex.h
+/Users/alpi/Google Drive/CSM/Game Development/A6 - Djikstra/GameMap/Vertex.h
+iostream
+-
+queue
+-
+
+/Users/alpi/Google Drive/CSM/Game Development/A6 - Djikstra/GameMap/Vertex.h
+string
+-
+map
+-
+
+/Users/alpi/Google Drive/CSM/Game Development/A6 - Djikstra/GameMap/main.cpp
+iostream
+-
+Graph.h
+/Users/alpi/Google Drive/CSM/Game Development/A6 - Djikstra/GameMap/Graph.h
+

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="PokerPt1" targetName="PokerPt1" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2d04808c-84d4-467e-8603-b2fb7be20351" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FavoritesManager">
+    <favorites_list name="PokerPt1" />
+  </component>
+  <component name="ProjectId" id="1PhbPp5yrz5FARHXQ5YAnfElErC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="PokerPt1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="PokerPt1" TARGET_NAME="PokerPt1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="PokerPt1" RUN_TARGET_NAME="PokerPt1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d04808c-84d4-467e-8603-b2fb7be20351" name="Default Changelist" comment="" />
+      <created>1566234651357</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566234651357</updated>
+      <workItem from="1566234656557" duration="1135000" />
+      <workItem from="1566328636030" duration="269000" />
+      <workItem from="1566329258158" duration="794000" />
+      <workItem from="1586381341829" duration="436000" />
+      <workItem from="1586382092823" duration="5000" />
+      <workItem from="1586447652058" duration="1198000" />
+      <workItem from="1586524288728" duration="72000" />
+      <workItem from="1586706167006" duration="923000" />
+      <workItem from="1586725559868" duration="6890000" />
+      <workItem from="1586962871885" duration="3095000" />
+      <workItem from="1587045529224" duration="241000" />
+      <workItem from="1587063973107" duration="370000" />
+      <workItem from="1587139383305" duration="1007000" />
+      <workItem from="1587233338232" duration="37000" />
+      <workItem from="1587260055114" duration="631000" />
+      <workItem from="1587422100775" duration="445000" />
+      <workItem from="1587482506479" duration="1460000" />
+      <workItem from="1587563914641" duration="31000" />
+      <workItem from="1587955120888" duration="3742000" />
+      <workItem from="1588103738118" duration="112000" />
+      <workItem from="1588103933180" duration="464000" />
+      <workItem from="1588197941008" duration="108000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="204" key="GridCell.Tab.0.bottom" timestamp="1588198048605">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1398" height="204" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1588198048605" />
+    <state width="1398" height="204" key="GridCell.Tab.0.center" timestamp="1588198048604">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1398" height="204" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1588198048604" />
+    <state width="1398" height="204" key="GridCell.Tab.0.left" timestamp="1588198048604">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1398" height="204" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1588198048604" />
+    <state width="1398" height="204" key="GridCell.Tab.0.right" timestamp="1588198048605">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1398" height="204" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1588198048605" />
+  </component>
+</project>

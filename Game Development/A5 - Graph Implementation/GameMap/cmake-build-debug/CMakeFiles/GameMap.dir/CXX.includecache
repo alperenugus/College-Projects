@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/alpi/CLionProjects/GameMap/Graph.h
+string
+-
+vector
+-
+Vertex.h
+/Users/alpi/CLionProjects/GameMap/Vertex.h
+iostream
+-
+
+/Users/alpi/CLionProjects/GameMap/Vertex.h
+string
+-
+map
+-
+
+/Users/alpi/CLionProjects/GameMap/main.cpp
+iostream
+-
+Graph.h
+/Users/alpi/CLionProjects/GameMap/Graph.h
+
