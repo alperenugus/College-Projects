@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Kotlin Quiz</string>
+    <string name="Score">Score:</string>
+    <string name="True">True</string>
+    <string name="False">False</string>
+    <string name="Next">Next</string>
+    <string name="Previous">Previous</string>
+    <string name="question1">Colorado School of Mines is located in South Bend, IN.</string>
+    <string name="question2">Colorado School of Mines is founded in 1874.</string>
+    <string name="question3">The United States has 100 states.</string>
+    <string name="question4">The capital city of Turkey is Istanbul.</string>
+    <string name="correct_toast">Your knowledge is undoubtedly top notch!</string>
+    <string name="incorrect_toast">You must consult the elders for additional training.</string>
+    <string name="cheater_toast">Cheaters never prosper.</string>
+    <string name="answered_toast">This question is answered before!</string>
+    <string name="cheat_text">Are you really sure you want to cheat?</string>
+    <string name="cheat_answer_text">The Answer is</string>
+    <string name="cheat_button_text">Cheat</string>
+</resources>

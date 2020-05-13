@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <SwitchPreference
+        android:key="numPlayerKey"
+        android:title="@string/multiplayer"
+        android:summary="@string/multi_hint"
+        >
+    </SwitchPreference>
+
+    <DropDownPreference
+        android:key="difficultyKey"
+        android:title="@string/difficulty"
+        android:summary="@string/choose_difficulty"
+        android:entries="@array/difficulty_array"
+        app:entryValues="@array/difficulty_array"
+        android:defaultValue="Easy"
+        >
+    </DropDownPreference>
+
+    <SwitchPreference
+        android:key="firstPlayerKey"
+        android:title="@string/firstPlayerTitle"
+        android:summary="@string/firstPlayerHint"
+        >
+    </SwitchPreference>
+
+
+
+
+</PreferenceScreen>

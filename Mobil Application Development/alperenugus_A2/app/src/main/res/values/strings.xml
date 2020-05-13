@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">alperenugus_A2</string>
+    <string name="new_game">New Game</string>
+    <string name="history">History</string>
+    <string name="quit">Quit</string>
+    <string name="tictactoe">Tic-Tac-Toe</string>
+    <string name="winner">Winner: </string>
+    <string name="play_again">Play Again</string>
+    <string name="go_back">Return</string>
+    <string name="welcome">Welcome to</string>
+    <string name="preferences">Preferences</string>
+    <string name="multiplayer">Multiplayer</string>
+    <string name="multi_hint">Turn on if you will play with your friend!</string>
+    <string name="difficulty">Choose Difficulty</string>
+    <string name="choose_difficulty">Choose a difficulty level for the game.</string>
+    <string name="firstPlayerHint">If you want the first player to be "O", turn this on!</string>
+    <string name="firstPlayerTitle">First Player: X or O</string>
+    <string name="scores">Scores: </string>
+    <string name="delete_records">Delete Records</string>
+</resources>

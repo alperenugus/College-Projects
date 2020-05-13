@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/mapFragment">
+    <fragment
+        android:id="@+id/mapFragment"
+        android:name="com.csci448.alperenugus_a3.ui.Map.MapFragment"
+        android:label="Map" />
+    <fragment
+        android:id="@+id/aboutFragment"
+        android:name="com.csci448.alperenugus_a3.ui.AboutFragment"
+        android:label="About" />
+    <fragment
+        android:id="@+id/forecastFragment"
+        android:name="com.csci448.alperenugus_a3.ui.Forecast.ForecastFragment"
+        android:label="Forecast" />
+    <fragment
+        android:id="@+id/historyFragment"
+        android:name="com.csci448.alperenugus_a3.ui.History.HistoryFragment"
+        android:label="History" />
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="com.csci448.alperenugus_a3.ui.SettingsFragment"
+        android:label="Settings" />
+</navigation>

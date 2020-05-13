@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="8dp">
+
+    <TextView
+        android:id="@+id/history_date"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Date: "
+        android:textSize="18sp"
+        android:textColor="@android:color/holo_red_dark"/>
+
+    <TextView
+        android:id="@+id/history_winner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Winner: "
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/history_piece"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Piece: "
+        android:textSize="18sp" />
+
+</LinearLayout>
